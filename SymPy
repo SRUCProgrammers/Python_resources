@@ -1,0 +1,8 @@
+A Python library for symbolic maths.
+
+Combined with SciPy (NumPy, Matplotlib, etc) provides a pretty decent (AND FREE) computer algebra system (CAS).
+
+Documentation and tutorial available @ http://docs.sympy.org/latest/index.html
+
+Happy coding,
+Scott
